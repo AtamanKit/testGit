@@ -1,1 +1,1 @@
-This ie a test repository for me to learn Git
+This is a test repository for me to learn Git
