@@ -1,0 +1,4 @@
+Interpreted language
+Easy in use
+Slow (when making applications)
+Science (most common use)

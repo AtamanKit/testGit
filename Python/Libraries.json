@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Numpy",
+		"about": "array library",
+	},
+	{
+		"name": "Pandas",
+		"about": "array library"
+	},
+	{
+		"name": "PyQt/Pyside"
+		"about": "GUI library for Python"
+	}
+]
